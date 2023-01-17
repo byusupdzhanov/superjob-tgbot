@@ -1,4 +1,4 @@
-from configTest import settings
+from config import settings
 
 import telebot
 
