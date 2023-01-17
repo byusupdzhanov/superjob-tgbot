@@ -1,5 +1,5 @@
 settings = {
-    'TOKEN': '5801766295:AAFV91YxnN5tgqxdy1yWcSpRp17R9fVxeXc',
+    'TOKEN': 'bot-token',
     'tokens': '838393830384923',
     'caption_hello': 'Привет! \n\n'
                      '<b>Думаешь о том, как правильно начать карьеру,</b>'
